@@ -4,6 +4,12 @@ This is the art for the shop portion of Trying On The Trades. The art was commis
 
 <img src="TOTT_Shop_deliverable_01.jpg" />
 
+## View
+
+The store was designed to be fun yet not too cartoonish for kids to get interested in the trades. You can play with the store (without hotspots or TOTT for now) http://bitspacedevelopment.com/sv/panos/tott/tottshop/
+
+Dev version: http://bitspacedevelopment.com/sv/panos/tott/store/
+
 ## License 
 
 ```
